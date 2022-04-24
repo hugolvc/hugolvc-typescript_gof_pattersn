@@ -1,0 +1,11 @@
+{
+  "name": "typescript_gof_patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hugolvc/typescript_gof_patterns.git",
+  "author": "hugolvc <hugolvc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
